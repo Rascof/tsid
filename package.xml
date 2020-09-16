@@ -20,6 +20,7 @@
   <depend>eiquadprog</depend>
   <depend>eigenpy</depend>
   <depend>boost</depend>
+  <depend>graphviz</depend>
   
   <buildtool_depend>cmake</buildtool_depend>
 
